@@ -12,6 +12,7 @@ public class PolymorphismMain {
 		subClass.test();
 		superClass.test1();
 		
+		
 		/* SubClass subC = (SubClass) new SuperClass(); // not create sub class object by using super class constructor
 		subC.test();
 		subC.test1(); 
