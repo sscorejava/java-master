@@ -1,0 +1,24 @@
+Object Pool Pattern says that -> 
+" to reuse the object that are expensive to create".
+
+---------------------------------------
+Advantage of Object Pool design pattern
+---------------------------------------
+
+    It boosts the performance of the application significantly.
+    It is most effective in a situation where the rate of initializing a class instance is high.
+    It manages the connections and provides a way to reuse and share them.
+    It can also provide the limit for the maximum number of objects that can be created.
+
+-----
+Usage
+-----
+
+    When an application requires objects which are expensive to create. Eg: there is a need of opening too many connections for the database then it takes too longer to create a new one and the database server will be overloaded.
+    When there are several clients who need the same resource at different times.
+    
+-----
+NOTE: -> Object pool design pattern is essentially used in Web Container of the server for creating thread pools and data source pools to process the requests.
+-----
+
+
