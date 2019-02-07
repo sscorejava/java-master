@@ -1,0 +1,6 @@
+provides the control for accessing the original object
+
+
+Advantage of Proxy Pattern
+
+    It provides the protection to the original object from the outside world.
