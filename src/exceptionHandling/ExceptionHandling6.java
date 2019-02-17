@@ -8,7 +8,6 @@ public class ExceptionHandling6 {
 
 	}
 	
-	@SuppressWarnings("finally")
 	private static int test() {
 		
 		try {
