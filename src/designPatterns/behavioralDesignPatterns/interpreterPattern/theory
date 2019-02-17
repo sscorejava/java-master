@@ -1,0 +1,17 @@
+to define a representation of grammar of a given language, along with an interpreter that uses this representation to interpret sentences in the language
+
+
+
+Advantage of Interpreter Pattern
+
+    It is easier to change and extend the grammar.
+    Implementing the grammar is straightforward.
+
+    
+    
+    
+Usage of Interpreter pattern:
+
+    When the grammar of the language is not complicated.
+    When the efficiency is not a priority.
+    
