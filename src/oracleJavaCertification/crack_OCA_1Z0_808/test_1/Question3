@@ -1,0 +1,26 @@
+Which of the following conversions will be performed automatically in Java ?
+----------------------------------------------------------------------------
+ 
+ a: int to byte 
+ 
+ b: byte to int
+ 
+ c: float to double
+ 
+ d: double to float
+ 
+ e: None of the above
+ 
+-------------------------
+
+Answer : b, c
+
+Explanation :
+
+The following are valid implicit conversions in java
+
+byte-->short-->int-->long-->float-->double
+
+char-->int-->long-->float-->double
+
+Except these in the remaining cases explicit type casting is required.

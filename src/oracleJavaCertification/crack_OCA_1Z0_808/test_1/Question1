@@ -1,0 +1,23 @@
+Which of the following are true?
+--------------------------------
+
+ a: Java is platform dependent but JVM is platform independent
+ 
+ b: Java is platform independent but JVM is platform dependent
+ 
+ c: Java byte code is platform dependent but JVM is platform independent
+ 
+ d: Java byte code is platform independent but JVM is platform dependent
+ 
+-------------------------------------------------------------------------
+ 
+ Answer : b, d
+ 
+ Explanation :
+  
+ Java follows Write Once and Run anywhere policy (WORA). 
+ i.e Once we write a java program, we can run on any platform without making any changes. 
+ First Java Source File will be compiled into ByteCode. 
+ Bytecode is an intermediate and machine independent code. 
+ JVM will interpret byte code into the corresponding machine dependent code and executes that machine code. 
+ Hence Java is Platform independent Bytecode is Platform Independent But JVM is Platform Dependent

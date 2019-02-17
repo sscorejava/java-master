@@ -1,0 +1,16 @@
+In which of the following cases explicit Type casting is required ?
+-------------------------------------------------------------------
+
+ a: int to byte
+ 
+ b: byte to int
+ 
+ c: float to double
+ 
+ d: double to float
+ 
+ e: None of the above
+ 
+------------------------
+
+Answer : a, d
